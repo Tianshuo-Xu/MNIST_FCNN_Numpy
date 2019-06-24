@@ -3,11 +3,11 @@
 通过numpy实现 基于FCNN（全连接神经网络）的手写数字识别
 -
 ## 项目环境
-Python 3.6
-Tensorflow 1.13.1  (用于载入MNIST数据集）
-numpy 1.16.4
-matplotlib 3.1.0
-opencv-python 4.1.0.25
+- Python 3.6
+- Tensorflow 1.13.1 (用于载入MNIST数据集)
+- numpy 1.16.4
+- matplotlib 3.1.0
+- opencv-python 4.1.0.25
 -
 ## 项目文件介绍
 MNIST_data: MNIST数据集，内容不需要解压，通过tensorflow调用即可；
